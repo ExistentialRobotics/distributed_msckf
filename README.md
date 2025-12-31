@@ -33,9 +33,14 @@ python evaluate_results.py --dataset simulated --data_id nrobot_15
 If you find this work useful, please consider to cite our paper:
 ```
 @article{cao2024multi,
-  title={{Multi-Robot Object SLAM using Distributed Variational Inference}},
-  author={Cao, Hanwen and Shreedharan, Sriram and Atanasov, Nikolay},
-  journal={arXiv preprint arXiv:2404.18331},
-  year={2024}
+  title = {Multi-Robot Object {SLAM} Using Distributed Variational Inference},
+  author = {Cao, Hanwen and Shreedharan, Sriram and Atanasov, Nikolay},
+  journal = {IEEE Robotics and Automation Letters (RA-L)},
+  year = {2024},
+  volume = {9},
+  number = {10},
+  pages = {8722-8729},
+  url = {https://arxiv.org/abs/2404.18331},
+  doi = {https://doi.org/10.1109/LRA.2024.3451389}
 }
 ```
